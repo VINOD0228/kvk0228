@@ -1,5 +1,15 @@
 New Container url
 https://imageextractor0228.blob.core.windows.net/container-traindata?sp=rl&st=2020-12-18T16:46:21Z&se=2020-12-19T16:46:21Z&sv=2019-12-12&sr=c&sig=9imHMiQr1K%2BIbZrlJ%2B4bjc4EbQVydvNU2CBTpAVxrqE%3D
+form1:
+https://imageextractor0228.blob.core.windows.net/container-traindata/vinodkvk/Invoice_1.pdf?sp=rl&st=2020-12-18T17:22:15Z&se=2020-12-19T17:22:15Z&sv=2019-12-12&sr=b&sig=1n6vNWmqLdENHun2oPiTXSszt8eS8JVi7za71ojGlkM%3D
+Form2:
+https://imageextractor0228.blob.core.windows.net/container-traindata/vinodkvk/Invoice_2.pdf?sp=rl&st=2020-12-18T17:22:34Z&se=2020-12-19T17:22:34Z&sv=2019-12-12&sr=b&sig=rIr6WgqK0MQHdzLdIriPvBhv1Mj4FNLqjwTOQdGC%2BPU%3D
+form3:
+{"CloudHub.Azure.Storage.Blobs":{"connectionString":"BlobEndpoint=https://imageextractor0228.blob.core.windows.net;SharedAccessSignature=sv=2019-12-12&ss=bqtf&srt=sco&sp=rwdlacuptfx&se=2020-12-19T01:37:47Z&sig=iMuILWCvLgiM2nDFv9q74yEVgru5gmSvUIOUwF6rIz8%3D","containerName":"container-traindata","subscription":null,"accountUri":"https://imageextractor0228.blob.core.windows.net","sourceFolder":"vinodkvk","items":[{"relativePath":"Invoice_3.pdf","snapshot":""}],"sasToken":"sv=2019-12-12&ss=bqtf&srt=sco&sp=rwdlacuptfx&se=2020-12-19T01:37:47Z&sig=iMuILWCvLgiM2nDFv9q74yEVgru5gmSvUIOUwF6rIz8%3D"}}
+form4:
+https://imageextractor0228.blob.core.windows.net/container-traindata/vinodkvk/Invoice_4.pdf?sp=rl&st=2020-12-18T17:22:58Z&se=2020-12-19T17:22:58Z&sv=2019-12-12&sr=b&sig=ry0h5qZlQZkS707t8xe0NxQNgHZ64Hx%2BQAz0toKgl3Y%3D
+form5:
+https://imageextractor0228.blob.core.windows.net/container-traindata/vinodkvk/Invoice_5.pdf?sp=rl&st=2020-12-18T17:23:17Z&se=2020-12-19T17:23:17Z&sv=2019-12-12&sr=b&sig=m5fftmRZ0JkgUrQ1FWCsxJeGsOK%2FUAXoP0w9Qq5kH0o%3D
 
 
 
